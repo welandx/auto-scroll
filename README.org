@@ -1,0 +1,2 @@
+#+TITLE: README
+* Fork from a extension in [[https://github.com/manateelazycat/lazycat-emacs/blob/master/site-lisp/extensions/lazycat/auto-scroll.el][lazycat-emacs]]
